@@ -2,6 +2,7 @@
 Staff Training
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 testing testing
 =======
 
@@ -13,15 +14,26 @@ tttt
 goodd
 =======
 <<<<<<< HEAD
-Hello from the other side
 =======
 
 
+>>>>>>> b1ea0fa89d2f022409cdfdc8f1ec9b16e5aad81d
+Hello from the other side
 
+Mai
+
+
+ezzham
+
+I just call to say...
+Ting tong
 
 1.Ezzham
->>>>>>> 440acbdfc00de56093abcc396c1606b0344fa472
-=======
+
+2.GG
+
+
+
 1. Hello
 2. Trainers
 
