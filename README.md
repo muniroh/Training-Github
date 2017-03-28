@@ -21,4 +21,5 @@ hahahahahaha
 
 latest updates
 <br> hilang kah?
+<br> Hilang dah mai. Jom balik mai
 
