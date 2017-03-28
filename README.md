@@ -1,14 +1,20 @@
 # Training-Github
 Staff Training
 
-Mai
+testing testing
 
-Hello from the other side
+1. Hello
+2. Trainers
+3. Mai
+4. Zue
+5. Ezzham
+
 I just call to say...
-Ting tong
+<br>Ting tong
+<br>Kelentong
+<br>Tong tong
 
+Weyyy lapor. Jom balik
+<br>Dah Makan kann
 
-1.Ezzham
-2. Hello
-3. Trainers
-
+hahahahahaha
