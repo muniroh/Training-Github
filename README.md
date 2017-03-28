@@ -18,3 +18,7 @@ Weyyy lapor. Jom balik
 <br>Dah Makan kann
 
 hahahahahaha
+
+latest updates
+<br> hilang kah?
+
